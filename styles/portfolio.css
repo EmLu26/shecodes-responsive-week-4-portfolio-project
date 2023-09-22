@@ -30,14 +30,9 @@ h2 {
 
 p {
   font-family: var(--default-font-family);
-  font-weight: bold;
-  font-size: 20px;
+  font-weight: normal;
+  font-size: 16px;
   line-height: 30px;
-}
-
-a {
-  text-transform: uppercase;
-  font-weight: bold;
 }
 
 .hero {
@@ -77,9 +72,14 @@ a {
   padding: 15px 30px;
 }
 
-.border {
-  color: var(--branding-color);
-  border-width: thick;
+.primary-link {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.intro-text {
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .project-description {
