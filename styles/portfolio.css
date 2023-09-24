@@ -87,6 +87,10 @@ p {
   text-align: center;
 }
 
+.right-project-screenshot {
+  margin-left: 75px;
+}
+
 @media (max-width: 900px) {
   .project-description {
     padding: 0;
