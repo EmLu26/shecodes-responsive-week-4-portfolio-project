@@ -90,7 +90,7 @@ p {
   padding: 15px 30px;
 }
 
-.primary-link {
+.primary-link .secondary-link {
   text-transform: uppercase;
   font-weight: bold;
 }
