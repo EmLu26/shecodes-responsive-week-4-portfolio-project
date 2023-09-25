@@ -29,7 +29,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -80,8 +80,13 @@ p {
   font-family: var(--default-font-family);
 }
 
-.content p {
-  font-size: 14px;
+.content p,
+li {
+  font-size: 16px;
+}
+
+.content li {
+  font-weight: bold;
 }
 
 .content {
